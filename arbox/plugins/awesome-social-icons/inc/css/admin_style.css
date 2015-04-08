@@ -1,0 +1,64 @@
+#icons{
+box-shadow: 6px 6px 13px #888888;
+border: 2px solid;
+padding: 25px;
+}
+			#icons tr td{
+			width:33vw;
+			}
+			.awesome_spacer
+			{
+			margin-top:25px;
+
+			}
+		.awesome_tabs{
+			width: 150px;
+			text-align: center;
+			background: #00aced;
+			color: white;
+			padding: 17px 20px;
+			font-weight: bold;
+			border-radius: 0px;
+			display: inline-block;
+			font-size: 18px;
+			border:none;
+
+			}	
+			#tab_awsome_links,#tab_awsome_settings
+			{
+			outline: 0;
+			}
+			.successModal {
+				display: block;
+				position: fixed;
+				top: 45%;
+				left: 25%;
+				width: 300px;
+				height: auto;
+				padding: 5px 20px;
+				border: 3px solid #0087B7;
+				background-color:#00ACED;
+				z-index:1002;
+				overflow: auto;
+				color:white;
+				-moz-border-radius: 15px; 
+				-webkit-border-radius: 15px;
+				-moz-box-shadow: 5px 5px 10px #cfcfcf;
+				-webkit-box-shadow: 5px 5px 10px #cfcfcf;
+		}
+		.awesome_description
+		{
+		vertical-align:top;
+		font-size: 14px;
+font-weight: bold;
+		}
+.awesome_description input[type="radio"]
+{
+vertical-align:top !important;
+}
+        #awesome_settings{
+            padding:25px;
+            box-shadow: 6px 6px 13px #888888;
+            border: 2px solid;
+            margin-top: 18px;
+                }

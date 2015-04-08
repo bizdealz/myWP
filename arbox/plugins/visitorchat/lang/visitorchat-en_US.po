@@ -1,0 +1,924 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ClientEngage - WordPress Visitor Chat\n"
+"POT-Creation-Date: 2013-08-17 18:56-0000\n"
+"PO-Revision-Date: 2013-08-17 18:56-0000\n"
+"Last-Translator: ClientEngage <contact@clientengage.com>\n"
+"Language-Team: ClientEngage <contact@clientengage.com>\n"
+"Language: English (British)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress-themes\\wp-content"
+"\\plugins\\visitorchat\n"
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:401
+msgid "It appears that a discussion is already in progress."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:433
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:551
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:583
+msgid "A server error occured."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:448
+msgid "You cannot sign-out since no discussion is in progress."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:469
+msgid "Sign-out command not sent."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:481
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:517
+msgid "There is no active discussion in progress."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:486
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:522
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:561
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:649
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:688
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:714
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:818
+msgid "Incorrect request type."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:527
+msgid "Moderator offline."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:670
+msgid "Message could not be saved."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:683
+msgid "Discussion id not passed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1079
+msgid "Currently chatting..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1080
+msgid "Start chat - we're here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1081
+msgid "Contact us"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1082
+msgid "It appears as if all operators are currently offline."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1083
+msgid ""
+"<strong>We're not online right now.</strong><br />Our butts may not be in "
+"our seats, but that doesn't mean we're not there to help - leave your "
+"details below and we'll be in touch as soon as we can."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1084
+msgid ""
+"<strong>Questions?</strong><br />Good, because we're available right now - "
+"simply type your name and email address to start a live-chat with our "
+"support team."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1085
+msgid "Your name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1086
+msgid "Your e-mail address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1087
+msgid "Your enquiry..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1088
+msgid "Send Enquiry"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1089
+msgid ""
+"Your enquiry was sucessfully submitted - we will contact you as soon as "
+"possible."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1090
+msgid "Start Chat"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1091
+msgid "{username} is typing..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1092
+msgid "You can write your message now..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1093
+msgid "Exit Chat"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1094
+msgid "Are you sure?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1095
+msgid "Yes, exit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1096
+msgid "No, do not exit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1097
+msgid "Your message..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1098
+msgid "Send"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1099
+msgid "Please enter your email address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1100
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1101
+msgid "The email address may not exceed 85 characters"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1102
+msgid "Please enter your name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1103
+msgid "The name may not exceed 45 characters"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1104
+msgid "Please enter your enquiry"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1105
+msgid "The enquiry may not exceed 1500 characters"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1106
+msgid "Please enter your message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1107
+msgid "The message may not exceed 750 characters"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1108
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Utilities.php:440
+msgid "Yes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1109
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Utilities.php:444
+msgid "No"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1110
+msgid "Visitor Data"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1111
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:58
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:74
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:59
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:58
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:74
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:58
+msgid "Username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1112
+msgid "E-Mail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1113
+msgid "Started"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1114
+msgid "Last Activity"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1115
+msgid "Visitor Exited"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1116
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:75
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:91
+msgid "Referer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1117
+msgid "Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1118
+msgid "Visitor Time"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1119
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Utilities.php:473
+msgid "Browser"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1120
+msgid "OS"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1121
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:157
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:83
+msgid "Current Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1231
+msgid ""
+"For VisitorChat for WordPress to function, you need at least WordPress 3.3. "
+"Therefore, VisitorChat for WordPress has been deactivated. Please upgrade "
+"WordPress and install this plugin again. Click <a href=\":dashboard_url"
+"\">here</a> to go back to the WordPress dashboard."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1517
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1518
+msgid "VisitorChat Integration"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1555
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1841
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:52
+msgid "VisitorChat Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1558
+msgid "Can use VisitorChat"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1562
+msgid ""
+"If you select this option, this user can access the VisitorChat interface."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1615
+msgid "Enquiry read-status changed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1634
+msgid "Hide VisitorChat on this page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1639
+msgid "Show VisitorChat on this page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1839
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:36
+msgid "VisitorChat Past Discussions"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1839
+msgid "Past Discussions"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1840
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:36
+msgid "VisitorChat Enquiries"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1840
+msgid "Enquiries"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1841
+msgid "Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1842
+msgid "VisitorChat Help & About"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1842
+msgid "Help & About"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1862
+msgid "Your chat-status is online"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1994
+msgid "The enquiry was deleted."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:1999
+msgid "The enquiry could not be deleted."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:2035
+msgid "The discussion was deleted."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:2040
+msgid "The discussion could not be deleted."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/visitorchat.php:2073
+msgid ""
+"The cache files could not be saved. Please make sure the temporary directory "
+"is writable."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Enquiry.php:125
+msgid "Visitor Chat: You Received a New Enquiry from :username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Enquiry.php:126
+msgid ""
+"You just received a new enquiry through Visitor Chat. \n"
+"View the enquiry: :enquiry_url \n"
+"\n"
+"\n"
+"Sender: :sender_name \n"
+"Email: :sender_email \n"
+"\n"
+"Message: \n"
+":enquiry"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Utilities.php:435
+msgid "N/A"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/lib/Utilities.php:474
+msgid "Operating System"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:49
+msgid "Go Offline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:51
+msgid "Go Online"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:55
+msgid "VisitorChat Dashboard"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:59
+msgid "Operator Status: Offline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:60
+msgid "You need to go online if you wish to use the chat interface."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:201
+msgid "Default"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_dashboard.php:205
+msgid "You can select any active discussions from the tabs above."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:57
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:73
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:124
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:56
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:72
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:132
+msgid "Actions"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:59
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:75
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:67
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:59
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:75
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:66
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:60
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:76
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:146
+msgid "Messages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:61
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:77
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:115
+msgid "Modified"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:62
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:78
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:107
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:158
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:61
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:77
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:123
+msgid "Created"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:123
+msgid "No discussions found..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:129
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:128
+msgid "Delete Selected"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:129
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:128
+msgid "Are you sure you wish to delete the selected records?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:139
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:138
+msgid "&laquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions.php:140
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:139
+msgid "&raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:40
+msgid "Discussion with :username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:45
+msgid "Discussion Data"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:51
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:50
+msgid "Avatar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:83
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:99
+msgid "Visitor Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:91
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:107
+msgid "User Agent"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:99
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:115
+msgid "Remote Address"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:129
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:137
+msgid "Delete"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:129
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:137
+msgid "Are you sure you wish to delete this record?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:155
+msgid "User"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:156
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:60
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:76
+msgid "Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_discussions_view.php:194
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:164
+msgid "No record found..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:57
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:73
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:74
+msgid "Read"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries.php:122
+msgid "No enquiries found..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:39
+msgid "Enquiry from :username"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:44
+msgid "Enquiry Data"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:78
+msgid "Mark unread"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:78
+msgid "Mark read"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_enquiries_view.php:154
+msgid "Enquiry Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:34
+msgid "VisitorChat About, Help & Credits"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:40
+msgid "About"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:48
+msgid ""
+"The ClientEngage VisitorChat for WordPress is a fully-featured real-time "
+"chat for your WordPress website. And best of all: VisitorChat comes with a "
+"Windows-based client out-of-the-box. Without having to visit the "
+"VisitorChat’s admin-interface you will be notified from your Windows tray "
+"and can start chatting straight away!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:84
+msgid "Help"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:142
+msgid "Third-Party Components & Credits"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_help.php:203
+msgid "License Details"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:61
+msgid ""
+"Please use the settings below to change how VisitorChat is integrated with "
+"your WordPress Website."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:74
+msgid "General VisitorChat Settings & System Information"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:79
+msgid "VisitorChat Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:85
+msgid "VisitorChat Temporary Directory"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:91
+msgid "Writable: \":dir\""
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:95
+msgid "Not writable: \":dir\""
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:96
+msgid ""
+"It is highly recommended that you give this directory write access to "
+"improve the performance of VisitorChat."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:102
+msgid "API-Key"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:108
+msgid "API-Endpoint"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:114
+msgid "WordPress System Locale"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:116
+msgid ""
+"You need to create your language files with <a href=\"http://www.poedit.net"
+"\" target=\"_blank\">PoEdit</a> at \":file_location\". Please also use "
+"PoEdit to generate the respective *.mo-file."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:121
+msgid "Installed Languages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:123
+msgid ""
+"In addition to the default languages English and German, you have additional "
+"language files. Please consider sharing these with me by emailing the .po "
+"and .mo files to :emailaddress and confirming that you are happy for me to "
+"include these in this item free-of-charge. In return (provided your language "
+"file is included in the item), you will receive a backlink from this item's "
+"item-page on CodeCanyon. You have the following additional languages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:131
+msgid "First Message"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:134
+msgid ""
+"This message will automatically be sent to visitors one they started a new "
+"chat-session. You can use the placeholder {Username} to insert their name in "
+"the message. If you do not wish to automatically create a message, simply "
+"leave the field empty."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:140
+msgid "Enquiry Recipient"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:143
+msgid ""
+"Enquiry-notifications will be delivered to the above email address. "
+"VisitorChat uses the WordPress wp_mail() function. Therefore, you can use "
+"the WordPress plugin \"WP SMTP\" if you wish enquiry-notifications to be "
+"sent via SMTP."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:148
+msgid "Database Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:150
+msgid ""
+"Reset VisitorChat-settings to factory-defaults upon plugin re-activation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:151
+msgid ""
+"Please note that this will delete all of your VisitorChat settings and place "
+"the chat back into its default state. Your discussions and enquiries will "
+"remain."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:165
+msgid "VisitorChat Integration Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:170
+msgid "VisitorChat Integration Mode"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:172
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:174
+msgid "Opt-In"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:172
+msgid ""
+"The VisitorChat will only be included if you activate it in the respective "
+"post's or page's meta-settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:174
+msgid "Opt-Out"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:174
+msgid ""
+"The VisitorChat will always be included, unless you deactivate it in the "
+"respective post's or page's meta-settings."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:176
+msgid ""
+"Please select your preferred integration-mode above - this will determine "
+"how VisitorChat will be integrated in individual pages and posts."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:181
+msgid "Overrides for Special Pages"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:184
+msgid "Show on Frontpage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:184
+msgid "(When the main blog page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:186
+msgid "Show on Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:186
+msgid ""
+"(When the front of the site is displayed, whether it is posts or a Page. )"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:188
+msgid "Show in Comments Popup"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:188
+msgid "(When in Comments Popup window.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:190
+msgid "Show in Category Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:190
+msgid "(When any Category archive page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:192
+msgid "Show in Tag Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:192
+msgid "(When any Tag archive page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:194
+msgid "Show in Taxonomy Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:194
+msgid "(When any Taxonomy archive page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:196
+msgid "Show in Author Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:196
+msgid "(When any Author page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:198
+msgid "Show in Date Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:198
+msgid ""
+"(When any date-based archive page is being displayed (i.e. a monthly, "
+"yearly, daily or time-based archive).)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:200
+msgid "Show in Search Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:200
+msgid "(When a search result page archive is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:202
+msgid "Show in 404 Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:202
+msgid "(When a page displays after an \"HTTP 404: Not Found\" error occurs.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:204
+msgid "Show in Attachment Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:204
+msgid "(When an attachment document to a post or Page is being displayed.)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:219
+msgid "VisitorChat Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:224
+msgid "Layout Options"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:226
+msgid ""
+"Please use the settings below to individualise the look and feel of "
+"VisitorChat. If you are an advaned user, you can directly manipulate the CSS-"
+"stylesheet. However, please backup your custom changes before updating to a "
+"newer version of VisitorChat. The CSS-stylesheet can be found here: \":"
+"stylesheetpath\"."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:230
+msgid "Load Default Style"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:233
+msgid "Please select"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:234
+msgid "Red"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:235
+msgid "Blue"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:236
+msgid "Green"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:237
+msgid "Black"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:278
+msgid "Default Gravatar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:281
+msgid "Identicon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:282
+msgid "Person"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:283
+msgid "Custom URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:288
+msgid "Custom Gravatar Image URL"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:332
+msgid "Position"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:334
+msgid "Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:335
+msgid "Left"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:339
+msgid "Primary Colour"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:346
+msgid "Background Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:349
+msgid "This image has to be available in the following directory:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:353
+msgid "Additional Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:355
+msgid "Animate Hover"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:355
+msgid "(unless opened or hovered, the chat will appear semi-transparent)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:356
+msgid "Hide for Mobile Devices"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:356
+msgid "(the chat will not appear for mobile devices accessing your site)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress-themes\wp-content\plugins\visitorchat/pages/admin_settings.php:370
+msgid "Save Changes"
+msgstr ""

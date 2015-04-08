@@ -1,0 +1,51 @@
+
+              
+<div class=\"form-classes default false\" ng-class=\"[WidgetData.message_styling, WidgetData.hideWidget, WidgetData.hideOperator]\">
+  <audio id=\"pop-sound\" style=\"display: none\" src=\"http://arboxpackaging.com/wp-content/plugins/nchat/others/pop.mp3\" preload=\"auto\"></audio>
+  <div id=\"nchat-trigger\" compile=\"WidgetData.triggerText\" ng-style=\"{backgroundColor: WidgetData.mainColor}\" style=\"background-color: rgb(44, 103, 221);\"><img src=\"http://localhost/wordpress/wp-content/plugins/nchat/images/wp-icon-2.png\" width=\"22\" alt=\"\" class=\"ng-scope\"><span class=\"ng-scope\">Start Chat Now!</span></div>
+  <div id=\"nchat-wrap\">
+    <div>
+      <form id=\"chat-signup\" ng-style=\"{backgroundImage: +&quot;url(&quot;+WidgetData.theme+&quot;)&quot;}\" class=\"ng-pristine ng-valid\" style=\"background-image: url(http://localhost/wordpress/wp-content/plugins/nchat/images/crossword.png);\">
+        <span compile=\"WidgetData.form_html\"><h3 style=\"margin: 10px 0px 10px; color: #777\" class=\"ng-scope\"><span style=\"color: #444; font-weight: 600; -webkit-font-smoothing: antialiased; letter-spacing: -.7px; font-size: 21px\">Yes, we\'re here</span></h3>
+<p style=\"margin: 14px 0px; font-size: 14px\" class=\"ng-scope\">Our agents are online. Please give us the following details.</p></span>
+        <a class=\"nchat-min\" title=\"Minimize\" ng-style=\"{color: WidgetData.mainColor}\" style=\"color: rgb(44, 103, 221);\">-</a>        
+        <span class=\"ip-cover\"><input type=\"text\" placeholder=\"Name\" name=\"name\" class=\"field-name\"></span>
+        <span class=\"ip-cover\"><input type=\"text\" placeholder=\"Email\" name=\"email\" class=\"field-email\"></span>
+        <button type=\"submit\" id=\"chat-signup-submit\" class=\"ng-binding\">start</button>
+      </form>
+
+      <form id=\"chat-contact\" ng-style=\"{backgroundImage: &quot;url(&quot;+WidgetData.theme+&quot;)&quot;}\" class=\"ng-pristine ng-valid\" style=\"background-image: url(http://localhost/wordpress/wp-content/plugins/nchat/images/crossword.png);\">
+        <a class=\"nchat-min\" title=\"Minimize\" ng-style=\"{color: WidgetData.mainColor}\" style=\"color: rgb(44, 103, 221);\">-</a>        
+        <div id=\"hide-if-success\">
+          <span compile=\"WidgetData.contact_html\"><h3 class=\"ng-scope\">Oops! We\'re not online</h3>
+<p class=\"ng-scope\">You can use the form below to contact us</p></span>
+          <span class=\"ip-cover\"><input type=\"text\" placeholder=\"Name\" name=\"name\" class=\"field-name\"></span>
+          <span class=\"ip-cover\"><input type=\"text\" placeholder=\"Email\" name=\"email\" class=\"field-email\"></span>
+          <span class=\"ip-cover\"><textarea placeholder=\"Comments\" name=\"comments\" class=\"field-comments\"></textarea></span>
+          <button type=\"submit\" id=\"chat-contact-submit\" data-temp=\"submit\" class=\"ng-binding\">submit</button>
+        </div>
+        <div class=\"success-response\" compile=\"WidgetData.contact_success\"><span class=\"ng-scope\">Thanks! We got your message.</span></div>
+      </form>
+
+    </div>
+
+    <div id=\"chat-cover\">
+      <a class=\"nchat-min\" title=\"Minimize\" ng-style=\"{color: WidgetData.mainColor}\" style=\"color: rgb(44, 103, 221);\">-</a>        
+      <a class=\"nchat-x\" title=\"End Chat\">×</a>
+      <div id=\"operator-profile\" ng-style=\"{backgroundImage: +&quot;url(&quot;+WidgetData.theme+&quot;)&quot;,color: WidgetData.mainColor}\" style=\"color: rgb(44, 103, 221); background-image: url(http://localhost/wordpress/wp-content/plugins/nchat/images/crossword.png);\">
+                
+      </div>
+      <div id=\"chat-wrap\">
+        <div id=\"chat-area\" ng-style=\"{color: WidgetData.mainColor}\" style=\"color: rgb(44, 103, 221);\">
+                                  
+        </div>
+      </div>
+      <form id=\"chat-box-cover\" class=\"ng-pristine ng-valid\">
+        <div id=\"is_typing\"><div class=\"nchat-loader\"><div class=\"dot dot1\"></div><div class=\"dot dot2\"></div><div class=\"dot dot3\"></div></div></div>      
+        <textarea id=\"chat-box\" maxlength=\"1000\" placeholder=\"Type here and press Enter\"></textarea>
+      </form>
+    </div>
+        
+  </div>
+</div>
+            

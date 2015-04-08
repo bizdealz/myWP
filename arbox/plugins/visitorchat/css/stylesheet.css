@@ -1,0 +1,83 @@
+/**
+ * 
+ * ClientEngage VisitorChat for WordPress (http://www.clientengage.com)
+ * Copyright 2013, ClientEngage (http://www.clientengage.com)
+ *
+ * You must have purchased a valid license from CodeCanyon in order to have 
+ * the permission to use this file.
+ * 
+ * You may only use this file according to the respective licensing terms 
+ * you agreed to when purchasing this item on CodeCanyon.
+ * 
+ * All PHP code utilising WordPress features is licensed as GPL version 2 or 
+ * later. External libraries placed in the "vendors"-directory are subject to
+ * their respective licensing terms (take note of their licenses).
+ *  
+ * However, other ClientEngage assets such as JavaScript code, 
+ * CSS styles and images are not licensed as GPL version 2 or later and you are 
+ * required to abide by the CodeCanyon Regular License. 
+ * 
+ *
+ * @author          ClientEngage <contact@clientengage.com>
+ * @copyright       Copyright 2013, ClientEngage (http://www.clientengage.com)
+ * @link            http://www.clientengage.com ClientEngage
+ * @since           ClientEngage VisitorChat for WordPress v 1.0
+ * @license         CodeCanyon Regular License
+ * 
+ */
+
+.cevc_logo
+{
+    margin-left: -30px
+}
+.cevc_label_description
+{
+    color:#666;
+    margin-left:25px;    
+}
+.cevc_open_blank
+{
+    float: right;
+    margin-right: 15px;
+}
+
+em.emphasis {
+    font-style: normal;
+    font-weight: bold;
+    background: #e9edee;
+    color: #000;
+    padding: 1px 2px;
+    border: 1px dotted #ccc;
+    border-radius: 5px;
+}
+
+
+
+.smalltext
+{
+    font-size: 80%;
+}
+
+
+.avatar_image
+{
+    border-radius: 3px;
+}
+.visitorname 
+{
+    padding-right: 15px;
+}
+
+th 
+{
+    text-align: left;
+}
+
+@media (max-width: 767px)
+{
+    body 
+    {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
